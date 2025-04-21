@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This content was added directly on github
+=======
+This content was added locally
+>>>>>>> 0895f00 ( Add rebase-conflict.txt with local content)
